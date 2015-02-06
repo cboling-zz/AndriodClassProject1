@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Users\Chip\workspace\class\android-mobile\CourseProject\ModernArtUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Users\Chip\workspace\class\android-mobile\CourseProject\ModernArtUI\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e65f22a3b88e5511e5593ebedd014fa4da62592a.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Users\Chip\workspace\class\android-mobile\CourseProject\ModernArtUI\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-f9ff493430abb1eba3494f56fe7894fd049acfef.jar" />
+    </item>
+    <item
+        jar="E:\Users\Chip\workspace\class\android-mobile\CourseProject\ModernArtUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Users\Chip\workspace\class\android-mobile\CourseProject\ModernArtUI\app\build\intermediates\pre-dexed\debug\classes-42a7d4669ac9990bafd6063680051c9e45334b37.jar" />
+    </item>
+    <item
+        jar="E:\Users\Chip\workspace\class\android-mobile\CourseProject\ModernArtUI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Users\Chip\workspace\class\android-mobile\CourseProject\ModernArtUI\app\build\intermediates\pre-dexed\debug\classes-9acce23ef25e1cba335dd2d4973ffd57fb2985d9.jar" />
+    </item>
+
+</items>
